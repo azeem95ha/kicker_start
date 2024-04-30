@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    justify-self: center;
+}
+table{
+    justify-content: center;
+}
